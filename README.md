@@ -17,7 +17,6 @@ portfolio-site/
 ├── index.html                         # Main HTML file with sections
 ├── style.css                          # Styling for layout, colors, grid
 ├── script.js                          # Scroll reveal animation logic
-├── README.md                          # Description and usage guide
 ├── Surisetty Maruthi Ram Prakash Resume.pdf   # Resume for download
 └── images/                            # (Optional) Profile image & others
 ```
