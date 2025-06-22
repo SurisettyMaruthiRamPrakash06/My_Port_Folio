@@ -8,8 +8,6 @@ This is my **personal and professional portfolio website**, built using **HTML**
 
 👉 [Click here to view the live site](https://your-username.github.io/your-repo-name)
 
-*(Replace with your actual GitHub Pages URL)*
-
 ---
 
 ## 📁 Project Structure
